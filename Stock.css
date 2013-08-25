@@ -1,0 +1,45 @@
+﻿table, th, td
+{
+background-color: aqua;
+border: 5px solid black;
+}
+
+
+/*
+Stock
+{
+  font-size: 50 x-large;  
+    }
+
+StockID
+{
+background-color: red;
+width: 100%;
+}
+Description
+{
+    
+color:purple;
+display: block;
+margin-bottom: 30pt;
+margin-left: 0;
+}
+
+Price
+{
+background-color: blue;
+font-size: 20pt;
+}
+/*
+ARTIST
+{
+color: #0000FF;
+font-size: 20pt;
+}
+COUNTRY,PRICE,YEAR,COMPANY
+{
+display: block;
+color: #000000;
+margin-left: 20pt;
+}
+*/
